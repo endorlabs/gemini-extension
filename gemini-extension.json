@@ -1,0 +1,15 @@
+{
+  "name": "endor-labs-extension",
+  "version": "1.0.0",
+  "mcpServers": {
+    "endor-cli-tools": {
+      "command": "npx",
+      "args": ["-y", "endorctl", "ai-tools", "mcp-server"]
+    }
+  },
+  "contextFiles": [
+    {
+      "path": "ENDORLABS_CONTEXT.md"
+    }
+  ]
+}
