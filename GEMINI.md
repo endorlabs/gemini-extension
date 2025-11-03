@@ -18,7 +18,7 @@ This project is a CLI extension and does not have a traditional build process.
 To install and run this extension, use the following command:
 
 ```bash
-gemini extensions install endorlabs/endor-labs-gemini-extension
+gemini extensions install https://github.com/endorlabs/gemini-extension.git
 ```
 
 For local development, you can clone the repository and link the extension:

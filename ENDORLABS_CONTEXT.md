@@ -33,8 +33,6 @@ When working with Endor Labs through Gemini CLI, use clear and specific prompts:
 
 - "Scan my project for security vulnerabilities"
 - "Check dependencies for known CVEs"
-- "Analyze code quality in the src/ directory"
-- "Review license compliance for all dependencies"
 - "Generate a security report for this repository"
 
 ### Best Practices
